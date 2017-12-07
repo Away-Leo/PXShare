@@ -15,7 +15,7 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 
 
-    compile 'com.github.Away-Leo:PXMetaLib:1.0.0.2'
+    compile 'com.github.Away-Leo:PXMetaLib:1.0.0.5'
 
     compile files('libs/MobCommons-2017.1024.1907.jar')
     compile files('libs/MobTools-2017.1024.1907.jar')
